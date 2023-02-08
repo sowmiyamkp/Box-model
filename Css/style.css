@@ -1,0 +1,88 @@
+.Ambani{
+	background-color:#CC66CC;
+	color:white;
+	font-size:20px;
+	
+	padding:10px;
+	margin:12px;
+	box-shadow:5px 10px 20px red;
+	
+}
+.boy
+	{
+		display:block;
+		width:30%;
+		margin-left:auto;
+		margin-right:auto;
+		
+}
+	
+.Ambani p 
+	{
+	 text-align:left;	
+	}
+.Ambani h1
+	{
+	 text-align:center;	
+	}
+
+
+#Education{
+	background-color:#669999;
+	color:#CCFF99;
+	font-size:20px;
+	border:5px 	#9400D3 double;
+	padding:10px;
+	margin:12px;
+	text-align:center;
+}
+
+.book
+	{
+		width:45%;
+	}
+#Education p 
+	{
+	 text-align:left;	
+	}
+
+	
+.beach{
+	background-color:#FF1493;
+	color:white;
+	font-size:20px;
+	border:5px white double;
+	padding:10px;
+	margin:12px;
+	text-align:center;
+}
+
+.water
+	{
+	width:40%;
+	}
+.beach p 
+	{
+	 text-align:left;	
+	}
+
+	
+#Nature{
+	background-color:#F08080;
+	color:#FFFAF0;
+	font-size:20px;
+	border:5px 	#800080 dashed;
+	padding:10px;
+	margin:12px;
+	text-align:center;
+}
+
+.Tree
+	{
+	width:40%;
+	}
+
+#Nature p 
+	{
+	 text-align:left;	
+	}
